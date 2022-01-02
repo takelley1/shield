@@ -1,3 +1,8 @@
+- Packaging
+  - `python -m build` to build package
+  - `pip install -e .` to install package in development mode
+  - Python packaging docs: https://packaging.python.org/en/latest/tutorials/packaging-projects/
+  - Using `setup.cfg`: https://setuptools.pypa.io/en/latest/userguide/declarative_config.html
 - SQLite docs: https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 - Urwud: https://urwid.org/index.html
   - Scrollable widget: https://github.com/urwid/urwid/issues/226
